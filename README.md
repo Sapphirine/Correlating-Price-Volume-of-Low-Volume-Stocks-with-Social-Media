@@ -1,5 +1,6 @@
 #Correlating Price Volume of Low Volume Stocks with Social Media
 
+Columbia University
 
 
 The tools we build can be applied to different research topics for identifying leading indicators and building predictive models
@@ -18,4 +19,4 @@ https://www.youtube.com/watch?v=tZ9gQEKX7Sg
 
 
 
-#By Jeff Ho
+
