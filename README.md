@@ -2,6 +2,13 @@
 
 Columbia University
 
+Jeff Ho ( wh2318@columbia.edu ), 
+William Lee ( wl2468@columbia.edu )
+
+
+
+
+
 
 The tools we build can be applied to different research topics for identifying leading indicators and building predictive models
 
