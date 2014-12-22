@@ -1,4 +1,4 @@
-#Jeff Ho
+#Correlating Price Volume of Low Volume Stocks with Social Media
 
 
 
@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=tZ9gQEKX7Sg
 
 
 
-#END
+#By Jeff Ho
