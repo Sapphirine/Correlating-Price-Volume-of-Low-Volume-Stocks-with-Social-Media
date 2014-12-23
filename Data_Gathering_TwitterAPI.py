@@ -15,10 +15,10 @@ import time
 
 #Fill in your login info
 def oauth_login():    
-    CONSUMER_KEY = "IHCzwOkA19oNlFiAvdKkxscWU"
-    CONSUMER_SECRET = "Hvu7U1WVC7E5hUN2t3riqeBc3jPqimnILpi3CDQRG1Xn9zNdZy"
-    OAUTH_TOKEN = "1121028973-0V4B9Mzm3yQ94SdAuJ6c95lvF6A8CuhqxWrQp7G"
-    OAUTH_TOKEN_SECRET = "ZdJnk4gaQz7k3AydIt4Eqj0EhHdSylj9DOYZixqngS9Ju"
+    CONSUMER_KEY = "..."
+    CONSUMER_SECRET = "..."
+    OAUTH_TOKEN = "..."
+    OAUTH_TOKEN_SECRET = "..."
     
     auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
     
