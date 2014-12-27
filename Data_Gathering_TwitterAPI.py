@@ -112,7 +112,7 @@ def load_from_mongo(mongo_db, mongo_db_coll, return_cursor=False, criteria=None,
     
    
     
-q = "$ALSK"   # <--- Put in the key word
+q = "$ALSK"   # <--- Put in the key word( anything you feel interested, w/ or w/o $ & # )
 
 results = twitter_search(twitter_api, q, max_results=10000)
 
