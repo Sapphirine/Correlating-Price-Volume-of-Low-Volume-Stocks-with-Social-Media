@@ -1,6 +1,6 @@
 #Jeff Ho
 #General purpose data manipulation for finding leading indicators
-#Naive Bayes classifier
+#Data processing: Raw data -> Expand data -> Visualize data -> Feature Selection -> Naive Bayes classifier -> Strategy
 
 
 expand <- function( raw_data )
