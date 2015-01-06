@@ -1,5 +1,5 @@
 #Jeff Ho
-#Mahout Naive Bayes Classification
+#Apache Mahout - Naive Bayes Classification
 #Require Hadoop & Mahout installation
 
 
